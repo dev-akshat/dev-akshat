@@ -8,7 +8,7 @@
     I am Akshat Tamrakar<img alt="Cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
 </h2>
 
-<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/205cd419e267555342c19acff3a7428c6e226191/assets/others/git-header.svg"/>
+<img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/git-header.svg"/>
 
 <p align="center">
   <samp>
@@ -37,7 +37,7 @@
 <hr/>
 <p align="left" >
 <h4 align="left">Languages</h4>
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/205cd419e267555342c19acff3a7428c6e226191/assets/others/Arrow_Downward.svg"/>
+<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Downward.svg"/>
   <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/angular-ar21.svg"/>
  <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/nestjs-ar21.svg"/>
   <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/flutterio-ar21.svg"/>
@@ -51,7 +51,7 @@
 <p  align="right" >
   <br/>
   <br/>
-  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/205cd419e267555342c19acff3a7428c6e226191/assets/others/Arrow_Upward.svg"/>
+  <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Upward.svg"/>
   <h4 align="right">Frameworks</h4>
   <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/typescriptlang-ar21.svg"/>
   <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/python-ar21.svg"/>
