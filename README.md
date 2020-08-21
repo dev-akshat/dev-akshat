@@ -1,16 +1,16 @@
-<h2>
+<h2 align="center">
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Hi.gif" width="29px"> 
   Hello,World!
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Earth.gif" width="24px"/>
 </h2>
 
-<h2>
+<h2 align="center">
     I am Akshat Tamrakar<img alt="Cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
 </h2>
 
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/git-header.svg"/>
 
-<p align="center">
+<p align="left">
   <samp>
     <br><br>
     Full stack developer
