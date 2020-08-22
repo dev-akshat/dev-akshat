@@ -5,7 +5,7 @@
 </h2>
 
 <h2 align="center">
-    I am Akshat Tamrakar<img alt="Cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
+    I'm Akshat Tamrakar<img alt="Cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
 </h2>
 
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/git-header.svg"/>
@@ -15,11 +15,11 @@
     <br><br>
     Full stack developer
     <br><br>
-    Mobile developer 
+     & mobile developer...
     <br><br>
     Focusing on building beautiful
     <br><br> 
-    & native applications
+    & native applications...
   </samp>
 </p>
 
@@ -27,12 +27,14 @@
 
 ### About
 
-- **Plateforms :** Android, Web, Server
-- **Languages :** Python, TypeScript, JavaScript, Dart, Java, C++
-- **Frameworks :** Flutter, Django, Angular, React, NestJS(Node)
-- **Databses :** PostgreSQL, CloudFireStore, Oracle
-- **Hobbies :** Reading Manga & Watching Anime
-- **Organisation :** Technojam
+- **Plateforms :** Web, Server, Desktop, <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width=70/>
+- **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+
+- **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
+
+- **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/cloudFirestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/postgresql-ar21.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/oracle-ar21.svg" width=80/>
+
+- **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, Reading📜Manga & Watching👀Anime
 
 <hr/>
 <p align="left" >
@@ -69,17 +71,13 @@
 ### <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/astro_cat.webp" width="50"> Me as a code... <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/developer.gif" width="50">
 
 ```javascript
-import { Akshat } from 'Awesome';
+import { Akshat } from "Awesome";
 
-const languages: [Python, Typescript, Javascript, Dart, Java, C++];
-const frameworks: [Flutter, Angular, React, Django, Node, NestJS];
-const databases: [PostgreSQL, CloudFireStore, Oracle];
+const languages = ["Python", "Typescript", "Javascript", "Dart", "Java", "C++"];
+const frameworks = ["Flutter", "Angular", "React", "Django", "NestJS"];
+const databases = ["PostgreSQL", "CloudFireStore", "Oracle"];
 
-Akshat.skills.push( ...languages,
-                    ...frameworks,
-                    ...databases,
-                  );
-
+Akshat.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr/>
@@ -126,8 +124,6 @@ Akshat.skills.push( ...languages,
 </p>
 
 <hr/>
-
-
 
 <p align="center">
   <img align="center" alt="AdventureTime" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/adventure_time.gif"/>
