@@ -34,7 +34,7 @@
 
 - **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/cloudFirestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/postgresql-ar21.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/oracle-ar21.svg" width=80/>
 
-- **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, **_Reading📜Manga & Watching👀Anime _**
+- **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, **_Reading📜Manga & Watching👀Anime_**
 
 <hr/>
 <p align="left" >
