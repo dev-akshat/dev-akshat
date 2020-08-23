@@ -27,41 +27,38 @@
 
 ### About
 
-- **Plateforms :** Web, Server, Desktop, <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width=70/>
+- **Plateforms :** **_Web, Desktop, <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width=70/>, Server_**
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 
 - **Frameworks :** <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />, <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>, <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>, <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width=80/>
 
 - **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/cloudFirestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/postgresql-ar21.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/oracle-ar21.svg" width=80/>
 
-- **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, Reading📜Manga & Watching👀Anime
+- **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, **_Reading📜Manga & Watching👀Anime _**
 
 <hr/>
 <p align="left" >
-<h4 align="left">Languages</h4>
-<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Downward.svg"/>
+<img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
   <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/angular-ar21.svg"/>
  <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/nestjs-ar21.svg"/>
   <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/flutterio-ar21.svg"/>
   <br />
   <br />
- <img width="10%" alt="React" align="right" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/reactjs-ar21.svg">
   <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/djangoproject-ar21.svg"/>
-
 </p>
-
+<br/>
+<br/>
 <p  align="right" >
-  <br/>
-  <br/>
   <img  align="right" alt="ArrowUpward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Upward.svg"/>
-  <h4 align="right">Frameworks</h4>
+  <br/>
+  <br/>
+  <h3 align="right">FAVOURITE FRAMEWORKS</h3>
   <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/typescriptlang-ar21.svg"/>
-  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/python-ar21.svg"/>
+  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/javascript-ar21.svg"/>
   <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/dartlang-ar21.svg"/>
   <br />
   <br />
-  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/javascript-ar21.svg">
-  <img  align="left" alt="Java" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/java-ar21.svg"/>
+  <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/languages/python-ar21.svg"/>
   <br />
   <br />
 </p>
