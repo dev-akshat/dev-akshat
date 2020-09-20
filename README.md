@@ -4,11 +4,14 @@
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Earth.gif" width="24px"/>
 </h2>
 
+
 <h2 align="center">
     I'm Akshat Tamrakar<img alt="Cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
 </h2>
 
+
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/git-header.svg"/>
+
 
 <p align="left">
   <samp>
@@ -23,9 +26,12 @@
   </samp>
 </p>
 
+
 <hr/>
 
-### About
+
+<h2 align="center">About</h2>
+
 
 - **Plateforms :** **_Web, Desktop, <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width=70/>, Server_**
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -36,7 +42,10 @@
 
 - **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, **_Reading📜Manga & Watching👀Anime_**
 
+
 <hr/>
+
+
 <p align="left" >
 <img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
   <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/frameworks/angular-ar21.svg"/>
@@ -63,9 +72,15 @@
   <br />
 </p>
 
+
 <hr/>
 
-### <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/astro_cat.webp" width="50"> Me as a code... <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/developer.gif" width="50">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/astro_cat.webp" width="50">
+  Me as a code... 
+  <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/developer.gif" width="50">
+</p>
+
 
 ```javascript
 import { Akshat } from "Awesome";
@@ -79,19 +94,31 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-<!-- Its main projects -->
+
 <p align="center">
   <a href="https://github.com/dev-akshat/state-of-matter">
-    <img align="center" alt="StateOfMatter" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/rep2.png" />
+    <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
   </a>
   <a href="https://github.com/dev-akshat/HackerNews">
-    <img align="center" alt="HackerNews" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/rep1.png" />
+    <img align="center" alt="HackerNews" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=HackerNews" />
   </a>
 </p>
 
+
 <hr/>
 
+
+<p align="center">
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+</p>
+
+
+<hr/>
+
+
 <h2 align="center">Find me on</h2>
+
 
 <p align="center">
 
@@ -120,11 +147,14 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 </p>
 
+
 <hr/>
+
 
 <p align="center">
   <img align="center" alt="AdventureTime" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/adventure_time.gif"/>
 </p>
+
 
 <p align="center">
   Made with
