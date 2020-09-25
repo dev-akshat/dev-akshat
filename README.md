@@ -4,14 +4,14 @@
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Earth.gif" width="24px"/>
 </h2>
 
-
 <h2 align="center">
-    I'm Akshat Tamrakar<img alt="Cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
+    I'm
+    <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/giphy.webp" width="50">
+    Akshat Tamrakar
+    <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/dev-cat.gif" width="50"> 
 </h2>
 
-
 <img width="55%" align="right" alt="Bootcamp" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/git-header.svg"/>
-
 
 <p align="left">
   <samp>
@@ -26,12 +26,9 @@
   </samp>
 </p>
 
-
 <hr/>
 
-
 <h2 align="center">About</h2>
-
 
 - **Plateforms :** **_Web, Desktop, <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg" width=70/>, Server_**
 - **Languages :** <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>, <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>, <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>, <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -40,11 +37,9 @@
 
 - **Databses :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/cloudFirestore.svg" width=100/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/postgresql-ar21.svg" width=80/>, <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/database/oracle-ar21.svg" width=80/>
 
-- **Hobbies :** <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>, **_Reading📜Manga & Watching👀Anime_**
-
+- **Hobbies :** **_Gam<img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/gamepad.svg" width=30/>ing_**, **_Manga📜Reading, Watching👀Anime_**
 
 <hr/>
-
 
 <p align="left" >
 <img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/Arrow_Downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
@@ -72,7 +67,6 @@
   <br />
 </p>
 
-
 <hr/>
 
 <p align="center">
@@ -80,7 +74,6 @@
   Me as a code... 
   <img src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/developer.gif" width="50">
 </p>
-
 
 ```javascript
 import { Akshat } from "Awesome";
@@ -94,7 +87,6 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
 
 <hr/>
 
-
 <p align="center">
   <a href="https://github.com/dev-akshat/state-of-matter">
     <img align="center" alt="StateOfMatter" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-akshat&repo=state-of-matter" />
@@ -104,60 +96,62 @@ Akshat.skills.push(...languages, ...frameworks, ...databases);
   </a>
 </p>
 
-
 <hr/>
-
 
 <p align="center">
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-akshat&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
   <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-akshat&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
 </p>
 
+<br/>
+
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/dev-akshat/count.svg" alt="dev-akshat profile views" /> 
+</p>
 
 <hr/>
 
-
 <h2 align="center">Find me on</h2>
-
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/akshat-tamrakar">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/social/Linkedin.svg"/>
-
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.hackerrank.com/dev_akshat">
     <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/social/HackerRank.svg"/>
   </a>
-  
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/dev-akshat">
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/social/GitHub.svg"/>
   </a>
-
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.instagram.com/a.k.s.h.a.t">
     <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/social/Instagram.svg"/>
   </a>
-
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://www.facebook.com/i.am.akshat.tamrakar">
     <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/social/Facebook.svg"/>
   </a>
-
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://twitter.com/AkshatTamraka12">
     <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/social/Twitter.svg"/>
   </a>
 
 </p>
 
-
 <hr/>
 
-
 <p align="center">
-  <img align="center" alt="AdventureTime" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/adventure_time.gif"/>
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/dev-akshat/master/assets/others/luffy.gif"/>
 </p>
 
-
 <p align="center">
-  Made with
-  <span style="color:#e25555">♥</span>
-  in Bhopal
+  Made with ❤️ in Bhopal
 </p>
